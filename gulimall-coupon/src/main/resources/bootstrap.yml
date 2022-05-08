@@ -8,3 +8,4 @@ spring:
         server-addr: localhost:8848
         namespace: 1a27170d-dbca-4f36-ba18-71ee4f84d2ff
 
+#nacos 阿里巴巴注册中心、配置管理、服务管理
